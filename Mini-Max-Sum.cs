@@ -1,6 +1,6 @@
 public static void miniMaxSum(List<int> arr)
 {
-    // Converted the list<int> to list<long> using convert all
+    // Converted the list<int> to list<long> using ConvertAll
     List<long> longs = arr.ConvertAll(i => (long)i);
     long arrLength = longs.Count;
     long originalSum = longs.Sum();
