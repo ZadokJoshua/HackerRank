@@ -1,1 +1,1 @@
-# HackerRank-Excercises
+This repository contains my submissions to hackerrank.
