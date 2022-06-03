@@ -1,1 +1,1 @@
-This repository contains my submissions to hackerrank.
+🌍 This repository contains my submissions to Hackerrank.
