@@ -1,2 +1,2 @@
 Hello 🌍 \
-This repository contains my submissions to Hackerrank.
+This GitHub repository contains my submissions to Hackerrank.
